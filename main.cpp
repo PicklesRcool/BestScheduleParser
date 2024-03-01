@@ -6,8 +6,6 @@
 #include <vector>
 #include <fstream>
 #include <string>
-#include <streambuf>
-#include <algorithm>
 
 static const std::vector<std::string> g_weekdays_html { "Пн</span>",
                                                         "Вт</span>",
